@@ -1,0 +1,191 @@
+{
+    "templates": "../data/form",
+    "output": "../data/outputs",
+    "input": "../data/inputs",
+    "schema": [
+        {
+            "input": "1a.png",
+            "top": -30,
+            "bottom": 120,
+            "left": -80,
+            "right": 750,
+            "output": "1a.png"
+        },
+        {
+            "input": "1b.png",
+            "top": 80,
+            "bottom": -25,
+            "left": 260,
+            "right": -40,
+            "output": "1bam.png"
+        },
+        {
+            "input": "1b.png",
+            "top": 20,
+            "bottom": 55,
+            "left": 260,
+            "right": -40,
+            "output": "1bpm.png"
+        },
+        {
+            "input": "2b.png",
+            "top": 10,
+            "bottom": 60,
+            "left": -695,
+            "right": 1250,
+            "output": "2ba.png"
+        },
+        {
+            "input": "2b.png",
+            "top": -60,
+            "bottom": 100,
+            "left": -300,
+            "right": 1250,
+            "output": "2bb.png"
+        },
+        {
+            "input": "2c.png",
+            "top": -40,
+            "bottom": 100,
+            "left": -150,
+            "right": 420,
+            "output": "2c.png"
+        },
+        {
+            "input": "2d.png",
+            "top": -30,
+            "bottom": 100,
+            "left": -360,
+            "right": 560,
+            "output": "2d.png"
+        },
+        {
+            "input": "2e.png",
+            "top": -30,
+            "bottom": 100,
+            "left": 110,
+            "right": 170,
+            "output": "2e.png"
+        },
+        {
+            "input": "2f.png",
+            "top": -30,
+            "bottom": 100,
+            "left": 90,
+            "right": 120,
+            "output": "2f.png"
+        },
+        {
+            "input": "4a.png",
+            "top": 40,
+            "bottom": 20,
+            "left": -300,
+            "right": 1080,
+            "output": "4a.png"
+        },
+        {
+            "input": "4b.png",
+            "top": 45,
+            "bottom": 20,
+            "left": -240,
+            "right": 1140,
+            "output": "4b.png"
+        },
+        {
+            "input": "4b.png",
+            "top": 45,
+            "bottom": 20,
+            "left": -240,
+            "right": 1140,
+            "output": "4b.png"
+        },
+        {
+            "input": "4c.png",
+            "top": 40,
+            "bottom": 20,
+            "left": -270,
+            "right": 1100,
+            "output": "4c.png"
+        },
+        {
+            "input": "5a.png",
+            "top": 10,
+            "bottom": 75,
+            "left": -660,
+            "right": 1300,
+            "output": "5a1.png"
+        },
+        {
+            "input": "5a.png",
+            "top": -75,
+            "bottom": 120,
+            "left": -680,
+            "right": 1300,
+            "output": "5a2.png"
+        },
+        {
+            "input": "5a.png",
+            "top": -160,
+            "bottom": 200,
+            "left": -150,
+            "right": 1300,
+            "output": "5a3.png"
+        },
+        {
+            "input": "5a.png",
+            "top": -200,
+            "bottom": 250,
+            "left": -190,
+            "right": 1300,
+            "output": "5a4.png"
+        },
+        {
+            "input": "5b.png",
+            "top": -20,
+            "bottom": 70,
+            "left": -760,
+            "right": 1280,
+            "output": "5b1.png"
+        },
+        {
+            "input": "5b.png",
+            "top": -70,
+            "bottom": 115,
+            "left": -510,
+            "right": 1280,
+            "output": "5b2.png"
+        },
+        {
+            "input": "5b.png",
+            "top": -115,
+            "bottom": 155,
+            "left": -500,
+            "right": 1280,
+            "output": "5b3.png"
+        },
+        {
+            "input": "5b.png",
+            "top": -155,
+            "bottom": 195,
+            "left": -390,
+            "right": 1280,
+            "output": "5b4.png"
+        },
+        {
+            "input": "5b.png",
+            "top": -200,
+            "bottom": 240,
+            "left": -400,
+            "right": 1280,
+            "output": "5b5.png"
+        },
+        {
+            "input": "5b.png",
+            "top": -240,
+            "bottom": 285,
+            "left": -510,
+            "right": 1280,
+            "output": "5b6.png"
+        }
+    ]
+}
